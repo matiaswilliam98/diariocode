@@ -1,8 +1,8 @@
 <?php
 
 $host = "localhost";
-$user = "root";
-$password = "";
+$user = "panchito";
+$password = "123456789";
 $database = "tienda_unid";
 
 $conexion = mysqli_connect($host, $user, $password, $database);
