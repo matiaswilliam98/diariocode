@@ -1,0 +1,6 @@
+electronico -> avisos diversos
+cocina -> edictos matrimoniales
+farmaceutico -> concesiones
+jugueteria -> edictos judiciales
+mascotas -> Edictos clasificados
+automovilistico -> Provincia

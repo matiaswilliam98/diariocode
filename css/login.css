@@ -1,0 +1,70 @@
+body {
+	margin: 0;
+	padding: 0;
+	background-color: #17a2b8;
+	height: 100vh;
+	background-image: url("/img/000054647M.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+#login .container #login-row #login-column #login-box {
+	width: 850px;
+	height: auto;
+	border: 1px solid #9C9C9C;
+	background-color: #EAEAEA;
+	border-radius: 10px;
+	padding: 20px;
+}
+
+@media (max-width: 400px){
+	.container{
+		width: 90%;
+	}
+}
+
+#login .container #login-row #login-column #login-box #login-form {
+	padding: 20px;
+}
+
+#login .container #login-row #login-column #login-box #login-form #register-link {
+	margin-top: -85px;
+}
+
+.space {
+	width: 100%;
+}
+
+footer {
+	background-color: #f5f5f5;
+	padding: 10px;
+	text-align: center;
+	color: black;
+}
+
+.logo {
+	position: absolute;
+	top: 20px;
+	left: 20px;
+	width: 160px;
+	/* Ajusta el ancho según sea necesario */
+	height: 50px;
+	/* Ajusta la altura según sea necesario */
+}
+
+footer {
+	background-color: #f5f5f5;
+	padding: 10px;
+	text-align: center;
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+}
+
+body {
+	margin-bottom: 50px;
+	/* Ajusta el margen inferior para evitar que el contenido se superponga al pie de página */
+}
