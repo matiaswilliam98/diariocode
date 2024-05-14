@@ -1,7 +1,7 @@
 <?php
 
 $host = "localhost";
-$user = "panchito";
+$user = "root";
 $password = "123456789";
 $database = "tienda_unid";
 
